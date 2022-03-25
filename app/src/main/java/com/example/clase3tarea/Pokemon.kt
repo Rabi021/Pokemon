@@ -17,6 +17,7 @@ fun main(){
         "cubone" -> println("Tipo Tierra")
         "snorlax" -> println("Tipo Normal")
         "gengar" -> println("Tipo Fantasma")
+        "steelix" -> println("Tipo Metal")
         else -> println("unknown")
 
 
